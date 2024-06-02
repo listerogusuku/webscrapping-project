@@ -43,7 +43,7 @@ _________
 ### Como Executar:
 
 1. **Execução do Script:**
-    - Abra o [Colab](https://colab.google/), carregue o aquivo .ipynb execute as células na ordem para realizar a coleta, análise e visualização dos dados.
+    - Clique [aqui](https://colab.research.google.com/drive/1iVaYXgtmBWHQPyAQQBcVwgoehSFa9KhZ?usp=sharing) ou abra o [Colab](https://colab.google/), carregue o aquivo .ipynb execute as células na ordem para realizar a coleta, análise e visualização dos dados.
 
 2. **Visualização dos Resultados:**
     - Os resultados serão apresentados em gráficos ao final do notebook, com uma análise do relatório gerado.
